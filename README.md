@@ -24,3 +24,7 @@ Tracks and displays the number of attempts.
 
 # Sample Output:
 <img width="1919" height="1016" alt="Image" src="https://github.com/user-attachments/assets/b5ef3711-0c7c-43fc-a6f6-1479093c53ed" />
+
+# Conclusion
+
+In this project, we successfully implemented a simple and interactive Number Guessing Game in Java that challenges the user to guess a randomly generated number. The program demonstrates core Java programming concepts such as random number generation, user input handling, conditional logic, and loops. It guides the user with meaningful feedback — indicating whether their guess is too high or too low — and continues until the correct number is guessed. This project not only met the original objectives but also helped reinforce foundational coding skills in Java, making it a great learning experience for beginners.
