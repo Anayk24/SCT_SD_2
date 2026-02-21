@@ -6,7 +6,7 @@ Position:Software Development Intern
 
 Internship Period:01 February 2026 - 28 February 2026
 
-## Java Number Guessing game:-
+# Java Number Guessing game
 
 # Project Overview
 
