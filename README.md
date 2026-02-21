@@ -23,3 +23,4 @@ Tells the user whether their guess is too high or too low.
 Tracks and displays the number of attempts.
 
 # Sample Output:
+<img width="1919" height="1016" alt="Image" src="https://github.com/user-attachments/assets/b5ef3711-0c7c-43fc-a6f6-1479093c53ed" />
